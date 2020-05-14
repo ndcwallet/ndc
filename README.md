@@ -1,9 +1,9 @@
-![NDC-NDC](https://github.com/ndexnetwork/ndc/azure-quickstart-templates/blob/master/ndc-on-ubuntu/images/ndc.png)
+![NDC-NDC](https://raw.githubusercontent.com/ndcwallet/ndc-site/master/assets/img/ndc-logo.png)
 
 [![Build Status](https://travis-ci.org/ndcpro/ndc.svg?branch=master)](https://travis-ci.org/ndcpro/ndc) [![Download NDC wallet](https://img.shields.io/badge/downloads-latest%20client-blue.svg)](https://github.com/ndexnetwork/ndc/releases/latest) [![NDC Network](https://img.shields.io/badge/network%20status-stable-brightgreen.svg)](http://explorer.ndcwallet.pro)
 
 
-### Join the NDC  - Cryptocurrency and Blockchain community : https://t.me/ndexnetwork
+### Join the NDC Wallet - Cryptocurrency and Blockchain community : https://t.me/ndcwallet
 
 ### P2P Port = 17799
 ### PRC Port = 17798
@@ -16,11 +16,11 @@
 [![NDC-raspberry](http://imgur.com/UJNvyax.png)](https://ndc.org/#jf_download)  [![NDC-pine](http://imgur.com/bUpbcNL.png)](https://www.ndcwallet.pro/#jf_download) [![NDC-android](http://i.imgur.com/Tx4q5Dc.png)](https://www.ndcwallet.pro/#jf_download) [![NDC-fedora](https://i.imgur.com/WCovlZx.png)](https://www.ndcwallet.pro/#jf_download)
 
 #### Download the Instant NDC-Blockchain - Fast Sync for first time users on Desktop-Laptop (Mac, Win, Linux, Raspberry Pi):
-![NDC-bootstrap] https://github.com/ndexnetwork/ndc
+![NDC-bootstrap] https://github.com/ndcwallet/ndc
 
 --------------------
 
-**NDC** is digital p2p cryptocurrency. **NDC** is the official symbol.
+**NDC Wallet** is digital p2p cryptocurrency. **NDC** is the official symbol.
 
 **Transactions** have real fast confirmations, making them virtually instant.
 
@@ -32,23 +32,23 @@ Some of the NDC features: **Fast, Efficient, Social, Community based (like Bitco
 
 --------------------
 
-## Visit NDC Smart Links and join the different community channels
+## Visit NDC Wallet Smart Links and join the different community channels
 
-#### NDC Community website  https://ndc.ndexnetwork.com- What is NDC?
+#### NDC Wallet Community Website  https://ndc.ndcwallet.pro
 
-#### NDC Resources website:  https://ndc.ndexnetwork.com
+#### NDC Wallet Resources Website:  https://ndcwallet.pro
 
-#### NDC Documentation website:  https://ndc.ndexnetwork.com
+#### NDC Wallet Documentation Website:  https://docs.ndcwallet.pro
 
-#### NDC Tutorials website:  https://ndc.ndexnetwork.com
+#### NDC Wallet Tutorials Website:  https://ndcwallet.pro
 
-#### NDC Chain explorer:  https://explorer.ndcwallet.pro
+#### NDC Wallet Chain Explorer:  https://explorer.ndcwallet.pro
 
-#### NDC Block halving:  https://ndcblockhalf.ndcwallet.pro
+#### NDC Wallet Block Halving:  https://ndcblockhalf.ndcwallet.pro
 
-#### NDC BTC Community Channels: https://discord.io/ndc
+#### NDC Wallet Community Channels: https://discord.io/ndc
 
-#### NDCTalk Forums *new:  http://ndctalk.ndexnetwork.com
+#### NDCTalk Forums *new:  http://ndctalk.ndcwallet.pro
 
 
 
@@ -58,7 +58,7 @@ Some of the NDC features: **Fast, Efficient, Social, Community based (like Bitco
 
 -------------------
 
-# Contribute with the NDC Development process
+# Contribute with the NDC Wallet Development process
 
 Developers work in their own forks, then submit pull requests when
 they think their feature or bug fix is ready.
@@ -70,7 +70,7 @@ or are controversial.
 
 The master branch is regularly built and tested, but is not guaranteed
 to be completely stable. Tags are regularly created to indicate new
-stable release versions of NDC.
+stable release versions of NDC Wallet.
 
 ```
 
