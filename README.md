@@ -74,6 +74,6 @@ stable release versions of NDC Wallet.
 
 ```
 
-                  Copyright © 2020 nDEX Network protected under license MIT
+                  Copyright © 2020 NDC Wallet protected under license MIT
 
 ```
