@@ -15,8 +15,8 @@
 
 [![NDC-raspberry](http://imgur.com/UJNvyax.png)](https://ndc.org/#jf_download)  [![NDC-pine](http://imgur.com/bUpbcNL.png)](https://www.ndcwallet.pro/#jf_download) [![NDC-android](http://i.imgur.com/Tx4q5Dc.png)](https://www.ndcwallet.pro/#jf_download) [![NDC-fedora](https://i.imgur.com/WCovlZx.png)](https://www.ndcwallet.pro/#jf_download)
 
-#### Download the Instant NDC-Blockchain - Fast Sync for first time users on Desktop-Laptop (Mac, Win, Linux, Raspberry Pi):
-![NDC-bootstrap] https://github.com/ndcwallet/ndc
+#### Download the Instant NDC-Wallet-Blockchain - Fast Sync for first time users on Desktop-Laptop (Mac, Win, Linux, Raspberry Pi):
+![NDC-Wallet-bootstrap] https://github.com/ndcwallet/ndc
 
 --------------------
 
@@ -24,11 +24,11 @@
 
 **Transactions** have real fast confirmations, making them virtually instant.
 
-You can send NDC to family or friends, or pay for goods or services, **anywhere in the world**.
+You can send NDC Wallet to family or friends, or pay for goods or services, **anywhere in the world**.
 
-The NDC network is **decentralized** and free from middlemen, giving you back control of your finances and providing a **secure network** for all of your payments.
+The NDC Wallet is **decentralized** and free from middlemen, giving you back control of your finances and providing a **secure network** for all of your payments.
 
-Some of the NDC features: **Fast, Efficient, Social, Community based (like Bitcoin), Transparency, Secure Messages, friendly to use, Universal name, Multicultural, Multi-platform, IoT(Internet of Things), Tor and i2p compatible**.
+Some of the NDC Wallet features: **Fast, Efficient, Social, Community based (like Bitcoin), Transparency, Secure Messages, friendly to use, Universal name, Multicultural, Multi-platform, IoT(Internet of Things), Tor and i2p compatible**.
 
 --------------------
 
